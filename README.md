@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Swethareddy431
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+NAME:N.VENKATA SWETHA
+COMPANY:CODTECH IT SOLUTIONS
+ID:CT12DS644
+DOMAIN:MACHINE LEARNING
+DURATION:JUNE-AUGEST 2024
+MENTOR:G.SRAVANI
+AIM:
+ALGORITHM:
+INPUT:
+OUTPUT:
+RESULT:
+
 
 <!---
 Swethareddy431/Swethareddy431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
